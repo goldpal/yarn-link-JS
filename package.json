@@ -1,0 +1,14 @@
+{
+  "name": "yarn-link-example",
+  "version": "1.0.0",
+  "description": "sample yarn package",
+  "main": "index.js",
+  "author": "goldpal",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "dependencies": {
+    "smallest": "^1.0.1"
+  }
+}
